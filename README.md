@@ -16,7 +16,7 @@ The input file of this project is video playing poker like following.
 
 <div align="center">
     <a href="./">
-        <img src="image.jpg" width="69%"/>
+        <img src="image.png" width="69%"/>
     </a>
 </div>
 
