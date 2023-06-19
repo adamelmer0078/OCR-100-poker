@@ -25,7 +25,7 @@ The output of this file is following.
 
 ``` shell
 Hand 26
-Start time; 09:24
+Start time ; 09:24
 pre flop
 Seat 3: John : +1 : $1980 : Qd9c :Fold
 Seat 4: Driver : +2 : $2905 : Jd9d : Raise to $75
